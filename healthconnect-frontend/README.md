@@ -109,4 +109,4 @@ Offline QR fallback handling
 👨‍💻 Author
 
 Pavan Kalyan Mummadi
-Frontend Developer – React + Vite
+Frontend Developer – React + Vite.
